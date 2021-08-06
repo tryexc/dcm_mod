@@ -2,6 +2,8 @@
 Created on Tue Aug  3 11:15:21 2020
 
 @author: tryexc
+
+needs Pydicom
 """
 import shutil
 import time
