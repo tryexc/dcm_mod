@@ -8,6 +8,7 @@ Needs Pydicom: https://pydicom.github.io/
 import shutil
 import time
 import os
+import pydicom
 from os import listdir
 
 ############################################################
