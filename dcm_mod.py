@@ -50,7 +50,8 @@ for patDir in os.listdir(p):
                 log_file = open(errorlog, 'a')
                 log_file.write(src + '\n')
                 log_file.close()
-                
-print('remove orig. data....')
-#shutil.rmtree(p) #  if needed!
+ 
+#  if needed!
+#print('remove orig. data....')
+#shutil.rmtree(p) 
 print('done....')
